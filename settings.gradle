@@ -1,0 +1,1 @@
+include ':app', ':gson-2.2.4', ':picasso-2.4.0'

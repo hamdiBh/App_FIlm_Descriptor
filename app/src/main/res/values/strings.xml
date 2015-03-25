@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Films Descriptor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Please Fill this form</string>
+    <string name="filmName">Title of the film</string>
+    <string name="year">Year of production</string>
+    <string name="search">Search</string>
+    <string name="title_activity_info">Info</string>
+
+    <string-array name="Type">
+        <item>Movie</item>
+        <item>Series</item>
+    </string-array>
+
+    <string name="title_activity_details">Details</string>
+
+</resources>
